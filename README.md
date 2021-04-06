@@ -6,7 +6,7 @@
   
 下載執行檔：https://github.com/WhiteEyeYan/Java_Game/releases/tag/Java_Game　　
   
-  
+<>
 遊戲截圖：  
 開始
 ![image](https://github.com/WhiteEyeYan/Java_Game/blob/main/gameImage/start.jpg)  
