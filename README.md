@@ -10,10 +10,10 @@
   
 遊戲截圖：  
 開始
-![image](https://github.com/WhiteEyeYan/Java_Game/blob/main/gameImage/start.jpg)  
+![image](https://github.com/WhiteEyeYan/Java_Game/blob/main/README_img/start.jpg)  
   
 終點線  
-![image](https://github.com/WhiteEyeYan/Java_Game/blob/main/gameImage/finish_line.jpg)  
+![image](https://github.com/WhiteEyeYan/Java_Game/blob/main/README_img/finish_line.jpg)  
   
 通關  
-![image](https://github.com/WhiteEyeYan/Java_Game/blob/main/gameImage/end.jpg) 
+![image](https://github.com/WhiteEyeYan/Java_Game/blob/main/README_img/end.jpg) 
